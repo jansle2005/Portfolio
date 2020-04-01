@@ -14,7 +14,7 @@ My credentials include a degree in Mechanical Engineering at UNICAMP, an institu
 ## Projents:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Twitter Post Scraper:** https://bit.ly/...........
+* **Twitter Post Scraper:** https://github.com/jansle2005/MachineLearningArea/blob/master/RASPA_TWITTER.py
 
 ---
 
