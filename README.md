@@ -5,9 +5,7 @@
 </p>
 
 # Jansle Sousa
-<sub>*Data Scientist & Machine Learnig Post Degree Student* at SIESB Brasília Center</sub>
-
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+<sub>*Data Scientist & Machine Learnig Post Degree Student* at IESB Brasília Center</sub>
 
 My credentials include a Degree in UNICAMP, an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Manager in TI Systema in PUCamp in Campinas/SP.
 
